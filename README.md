@@ -1,4 +1,4 @@
-# Commodore - Amiga (PUAE)
+# Commodore - Amiga (PUAE 2021)
 
 ### Description
 
@@ -12,7 +12,7 @@ GPLv2
 
 ### Icon
 
-![Commodore - Amiga (PUAE) icon](game.libretro.uae2021/resources/icon.png)
+![Commodore - Amiga (PUAE 2021) icon](game.libretro.uae2021/resources/icon.png)
 
 ### Fanart
 

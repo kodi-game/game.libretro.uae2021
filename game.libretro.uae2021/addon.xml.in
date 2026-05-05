@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.uae2021"
-		name="Commodore - Amiga (PUAE)"
-		version="0.0.0.1"
+		name="Commodore - Amiga (PUAE 2021)"
+		version="2.6.1.1"
 		provider-name="UAE Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -27,7 +27,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="da_DK">Commodore - Amiga (PUAE)</summary>
-		<summary lang="en_GB">Commodore - Amiga (PUAE)</summary>
+		<summary lang="en_GB">Commodore - Amiga (PUAE 2021)</summary>
 		<summary lang="es_ES">Commodore - Amiga (PUAE)</summary>
 		<summary lang="ga">Commodore - Amiga (PUAE)</summary>
 		<summary lang="it_IT">Commodore - Amiga (PUAE)</summary>

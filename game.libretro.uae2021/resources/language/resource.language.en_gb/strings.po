@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "Commodore - Amiga (PUAE)"
+msgid "Commodore - Amiga (PUAE 2021)"
 msgstr ""
 
 msgctxt "Addon Description"
@@ -228,10 +228,6 @@ msgstr ""
 
 msgctxt "#30053"
 msgid "OSD > Statusbar Messages"
-msgstr ""
-
-msgctxt "#30054"
-msgid "OSD > Light Pen/Gun Pointer Color"
 msgstr ""
 
 msgctxt "#30055"
