@@ -2,7 +2,7 @@
 
 ### Description
 
-UAE stands for the Ubiquitous Amiga Emulator.
+The 2021 version of PUAE requires much less CPU power to run smoothly.
 
 Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.
 
