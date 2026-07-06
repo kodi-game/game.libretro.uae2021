@@ -26,6 +26,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="cs_CZ">Commodore - Amiga (PUAE 2021)</summary>
 		<summary lang="da_DK">Commodore - Amiga (PUAE 2021)</summary>
 		<summary lang="en_GB">Commodore - Amiga (PUAE 2021)</summary>
 		<summary lang="es_ES">Commodore - Amiga (PUAE 2021)</summary>
@@ -34,6 +35,7 @@
 		<summary lang="ru_RU">Commodore — Amiga (PUAE 2021)</summary>
 		<summary lang="sv_SE">Commodore - Amiga (PUAE 2021)</summary>
 		<summary lang="zh_CN">Commodore - Amiga (PUAE 2021)</summary>
+		<description lang="cs_CZ">Verze PUAE 2021 vyžaduje pro plynulý běh mnohem méně výkonu CPU.[CR][CR]Většina her vyžaduje některou verzi ROM Kickstart pro Amigu. Některé staré hry však budou fungovat s vestavěnou emulací ROM.</description>
 		<description lang="da_DK">UAE står for Ubiquitous Amiga Emulator.[CR][CR]De fleste spil kræver en version af Amiga Kickstart ROM. Nogle gamle spil vil dog fungere med den indbyggede ROM-emulering.</description>
 		<description lang="de_DE">UAE steht für den Ubiquitous Amiga Emulator[CR][CR]Die meisten Spiele benötigen eine Version des Amiga Kickstart-ROM. Einige alte Spiele funktionieren jedoch auch mit der eingebauten ROM-Emulation.</description>
 		<description lang="en_GB">The 2021 version of PUAE requires much less CPU power to run smoothly.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation.</description>
