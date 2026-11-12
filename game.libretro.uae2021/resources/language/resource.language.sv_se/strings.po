@@ -25,209 +25,9 @@ msgctxt "Addon Description"
 msgid "The 2021 version of PUAE requires much less CPU power to run smoothly.[CR][CR]Most games require a version of the Amiga Kickstart ROM. However, some old games will work with the built-in ROM emulation."
 msgstr "UAE står för Ubiquitous Amiga Emulator.[CR][CR]De flesta spel kräver en version av Amiga Kickstart ROM. Vissa gamla spel fungerar dock med den inbyggda ROM-emuleringen."
 
-msgctxt "#30001"
-msgid "System > Model"
-msgstr "System > Modell"
-
-msgctxt "#30002"
-msgid "System > Show Automatic Model Options"
-msgstr "System > Visa automatiska modellalternativ"
-
-msgctxt "#30003"
-msgid "Model > Automatic Floppy"
-msgstr "Modell > Automatisk diskett"
-
-msgctxt "#30004"
-msgid "Model > Automatic HD"
-msgstr "Modell > Automatisk HD"
-
-msgctxt "#30005"
-msgid "Model > Automatic CD"
-msgstr "Modell > Automatisk CD"
-
-msgctxt "#30006"
-msgid "System > Kickstart ROM"
-msgstr "System > Kickstart ROM"
-
-msgctxt "#30007"
-msgid "System > Chip RAM"
-msgstr "System > Chip RAM"
-
-msgctxt "#30008"
-msgid "System > Slow RAM"
-msgstr "System > Långsamt RAM-minne"
-
-msgctxt "#30009"
-msgid "System > Z2 Fast RAM"
-msgstr "System > Z2 Snabbt RAM-minne"
-
-msgctxt "#30010"
-msgid "System > Z3 Fast RAM"
-msgstr "System > Z3 Snabbt RAM-minne"
-
-msgctxt "#30011"
-msgid "System > CPU Model"
-msgstr "System > CPU-modell"
-
-msgctxt "#30012"
-msgid "System > FPU Model"
-msgstr "System > FPU-modell"
-
-msgctxt "#30013"
-msgid "System > CPU Speed"
-msgstr "System > CPU-hastighet"
-
-msgctxt "#30014"
-msgid "System > CPU Cycle-exact Speed"
-msgstr "System > CPU-cykelexakt hastighet"
-
-msgctxt "#30015"
-msgid "System > CPU Compatibility"
-msgstr "System > CPU-kompatibilitet"
-
-msgctxt "#30016"
-msgid "Media > Automatic Load Fast-Forward"
-msgstr "Media > Automatisk inläsning snabbspolning"
-
-msgctxt "#30017"
-msgid "Media > Floppy Speed"
-msgstr "Media > Disketthastighet"
-
-msgctxt "#30018"
-msgid "Media > Floppy MultiDrive"
-msgstr "Media > Diskett MultiDrive"
-
-msgctxt "#30019"
-msgid "Media > Floppy Write Protection"
-msgstr "Media > Skrivskydd för disketter"
-
-msgctxt "#30020"
-msgid "Media > Floppy Write Redirect"
-msgstr "Media > Omdirigering av diskettskrivning"
-
-msgctxt "#30021"
-msgid "Media > CD Speed"
-msgstr "Media > CD-hastighet"
-
-msgctxt "#30022"
-msgid "Media > CD Startup Delayed Insert"
-msgstr "Media > Försenad inmatning vid CD-start"
-
-msgctxt "#30023"
-msgid "Media > CD32/CDTV Shared NVRAM"
-msgstr "Media > CD32/CDTV delat NVRAM"
-
-msgctxt "#30024"
-msgid "Media > WHDLoad Support"
-msgstr "Media > Stöd för WHDLoad"
-
-msgctxt "#30025"
-msgid "Media > WHDLoad Theme"
-msgstr "Media > WHDLoad-tema"
-
-msgctxt "#30026"
-msgid "Media > WHDLoad Splash Screen"
-msgstr "Media > WHDLoad startskärm"
-
-msgctxt "#30027"
-msgid "Media > WHDLoad NoWriteCache"
-msgstr "Media > WHDLoad NoWriteCache"
-
-msgctxt "#30028"
-msgid "Media > Global Boot HD"
-msgstr "Media > Global uppstarts-HD"
-
-msgctxt "#30029"
-msgid "Media > Cartridge"
-msgstr "Media > Kassett"
-
 msgctxt "#30030"
 msgid "Show Video Options"
 msgstr "Visa videoalternativ"
-
-msgctxt "#30031"
-msgid "Video > Allow Hz Change"
-msgstr "Video > Tillåt Hz-ändring"
-
-msgctxt "#30032"
-msgid "Video > Standard"
-msgstr "Video > Standard"
-
-msgctxt "#30033"
-msgid "Video > Pixel Aspect Ratio"
-msgstr "Video > Bildförhållande per bildpunkt"
-
-msgctxt "#30034"
-msgid "Video > Resolution"
-msgstr "Video > Upplösning"
-
-msgctxt "#30035"
-msgid "Video > Line Mode"
-msgstr "Video > Linjeläge"
-
-msgctxt "#30036"
-msgid "Video > Crop"
-msgstr "Video > Beskär"
-
-msgctxt "#30038"
-msgid "Video > Crop Mode"
-msgstr "Video > Beskärningsläge"
-
-msgctxt "#30040"
-msgid "Video > Vertical Position"
-msgstr "Video > Vertikal position"
-
-msgctxt "#30041"
-msgid "Video > Horizontal Position"
-msgstr "Video > Horisontell position"
-
-msgctxt "#30042"
-msgid "Video > Immediate/Waiting Blits"
-msgstr "Video > Omedelbara/Väntande Blits"
-
-msgctxt "#30043"
-msgid "Video > Collision Level"
-msgstr "Video > Kollisionsnivå"
-
-msgctxt "#30044"
-msgid "Video > Remove Interlace Artifacts"
-msgstr "Video > Ta bort interlace-artefakter"
-
-msgctxt "#30045"
-msgid "Video > Frameskip"
-msgstr "Video > Hoppa över bildrutor"
-
-msgctxt "#30046"
-msgid "Video > Color Gamma"
-msgstr "Video > Färggamma"
-
-msgctxt "#30047"
-msgid "Video > Color Depth"
-msgstr "Video > Färgdjup"
-
-msgctxt "#30048"
-msgid "OSD > Virtual KBD Theme"
-msgstr "OSD > Virtuellt KBD-tema"
-
-msgctxt "#30049"
-msgid "OSD > Virtual KBD Transparency"
-msgstr "OSD > Virtuell KBD-genomskinlighet"
-
-msgctxt "#30050"
-msgid "OSD > Virtual KBD Dimming"
-msgstr "OSD > Virtuell KBD-dimning"
-
-msgctxt "#30051"
-msgid "OSD > Statusbar Mode"
-msgstr "OSD > Statusfältläge"
-
-msgctxt "#30052"
-msgid "OSD > Statusbar Startup"
-msgstr "OSD > Statusfält vid uppstart"
-
-msgctxt "#30053"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > Meddelanden för statusfält"
 
 msgctxt "#30054"
 msgid "OSD > Light Pen/Gun Pointer Color"
@@ -237,241 +37,857 @@ msgctxt "#30055"
 msgid "Show Audio Options"
 msgstr "Visa ljudalternativ"
 
-msgctxt "#30056"
-msgid "Audio > Stereo Separation"
-msgstr "Ljud > Stereoseparation"
-
-msgctxt "#30057"
-msgid "Audio > Interpolation"
-msgstr "Ljud > Interpolering"
-
-msgctxt "#30058"
-msgid "Audio > Filter"
-msgstr "Ljud > Filter"
-
-msgctxt "#30059"
-msgid "Audio > Filter Type"
-msgstr "Ljud > Filtertyp"
-
-msgctxt "#30060"
-msgid "Audio > Floppy Sound Emulation"
-msgstr "Ljud > Emulering av diskettljud"
-
-msgctxt "#30061"
-msgid "Audio > Floppy Sound Mute Ejected"
-msgstr "Ljud > Diskettljud tyst utmatning"
-
-msgctxt "#30062"
-msgid "Audio > Floppy Sound Type"
-msgstr "Ljud > Ljudtyp för diskett"
-
-msgctxt "#30063"
-msgid "Audio > CD Audio Volume"
-msgstr "Ljud > Ljudvolym för CD"
-
-msgctxt "#30064"
-msgid "Input > Analog Stick Mouse"
-msgstr "Inmatning > Analog spak-mus"
-
-msgctxt "#30065"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "Inmatning > Dödzon för analog spak-mus"
-
-msgctxt "#30067"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "Inmatning > Mushastighet för riktningsknappar"
-
-msgctxt "#30068"
-msgid "Input > Mouse Speed"
-msgstr "Inmatning > Mushastighet"
-
-msgctxt "#30069"
-msgid "Input > Physical Mouse"
-msgstr "Inmatning > Fysisk mus"
-
-msgctxt "#30070"
-msgid "Input > Keyboard Pass-through"
-msgstr "Inmatning > Genomströmning av tangentbord"
-
-msgctxt "#30071"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "Inmatning > Mappningar för Keyrah-tangentbord"
-
 msgctxt "#30072"
 msgid "Show Mapping Options"
 msgstr "Visa mappningsalternativ"
 
-msgctxt "#30073"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Snabbtangent > Växla virtuellt tangentbord"
+msgctxt "#30782"
+msgid "Model"
+msgstr "Modell"
 
-msgctxt "#30074"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Snabbtangent > Växla statusfält"
+msgctxt "#30785"
+msgid "Show Automatic Model Options"
+msgstr "Visa automatiska modellalternativ"
 
-msgctxt "#30075"
-msgid "Hotkey > Switch Joystick/Mouse"
-msgstr "Snabbknapp > Växla styrspak/mus"
+msgctxt "#30786"
+msgid "Automatic Floppy"
+msgstr "Automatisk diskett"
 
-msgctxt "#30076"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Snabbtangent > Växla turboavfyrning"
+msgctxt "#30787"
+msgid "Automatic HD"
+msgstr "Automatisk HD"
 
-msgctxt "#30077"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "Snabbtangent > Växla sparningsdisk"
+msgctxt "#30788"
+msgid "Automatic CD"
+msgstr "Automatisk CD"
 
-msgctxt "#30078"
-msgid "Hotkey > Reset"
-msgstr "Snabbknapp > Omstart"
+msgctxt "#30789"
+msgid "Kickstart ROM"
+msgstr "Kickstart ROM"
 
-msgctxt "#30079"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "Snabbtangent > Växla bildförhållande"
+msgctxt "#30790"
+msgid "Chip RAM"
+msgstr "Chip RAM"
 
-msgctxt "#30080"
-msgid "Hotkey > Toggle Crop"
-msgstr "Snabbtangent > Växla beskärning"
+msgctxt "#30791"
+msgid "Slow RAM"
+msgstr "Långsamt RAM-minne"
 
-msgctxt "#30082"
-msgid "RetroPad > Up"
-msgstr "RetroPad > Upp"
+msgctxt "#30792"
+msgid "Z2 Fast RAM"
+msgstr "Z2 Snabbt RAM-minne"
 
-msgctxt "#30083"
-msgid "RetroPad > Down"
-msgstr "RetroPad > Ner"
+msgctxt "#30793"
+msgid "Z3 Fast RAM"
+msgstr "Z3 Snabbt RAM-minne"
 
-msgctxt "#30084"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Vänster"
+msgctxt "#30794"
+msgid "CPU Model"
+msgstr "CPU-modell"
 
-msgctxt "#30085"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Höger"
+msgctxt "#30795"
+msgid "FPU Model"
+msgstr "FPU-modell"
 
-msgctxt "#30086"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
+msgctxt "#30796"
+msgid "CPU Speed"
+msgstr "CPU-hastighet"
 
-msgctxt "#30087"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
+msgctxt "#30797"
+msgid "CPU Cycle-exact Speed"
+msgstr "CPU-cykelexakt hastighet"
 
-msgctxt "#30088"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
+msgctxt "#30798"
+msgid "CPU Compatibility"
+msgstr "CPU-kompatibilitet"
 
-msgctxt "#30089"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
+msgctxt "#30824"
+msgid "Automatic Load Fast-Forward"
+msgstr "Automatisk inläsning snabbspolning"
 
-msgctxt "#30090"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Select"
+msgctxt "#30825"
+msgid "Floppy Speed"
+msgstr "Disketthastighet"
 
-msgctxt "#30091"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
+msgctxt "#30826"
+msgid "Floppy MultiDrive"
+msgstr "Diskett MultiDrive"
 
-msgctxt "#30092"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
+msgctxt "#30827"
+msgid "Floppy Write Protection"
+msgstr "Skrivskydd för disketter"
 
-msgctxt "#30093"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
+msgctxt "#30828"
+msgid "Floppy Write Redirect"
+msgstr "Omdirigering av diskettskrivning"
 
-msgctxt "#30094"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
+msgctxt "#30829"
+msgid "CD Speed"
+msgstr "CD-hastighet"
 
-msgctxt "#30095"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
+msgctxt "#30830"
+msgid "CD Startup Delayed Insert"
+msgstr "Försenad inmatning vid CD-start"
 
-msgctxt "#30096"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
+msgctxt "#30831"
+msgid "CD32/CDTV Shared NVRAM"
+msgstr "CD32/CDTV delat NVRAM"
 
-msgctxt "#30097"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
+msgctxt "#30832"
+msgid "WHDLoad Support"
+msgstr "Stöd för WHDLoad"
 
-msgctxt "#30098"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Vänster analog > Upp"
+msgctxt "#30834"
+msgid "WHDLoad Theme"
+msgstr "WHDLoad-tema"
 
-msgctxt "#30099"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Vänster analog > Ner"
+msgctxt "#30835"
+msgid "WHDLoad Splash Screen"
+msgstr "WHDLoad startskärm"
 
-msgctxt "#30100"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Vänster analog > Vänster"
+msgctxt "#30836"
+msgid "WHDLoad ButtonWait"
+msgstr "WHDLoad ButtonWait"
 
-msgctxt "#30101"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Vänster analog > Höger"
+msgctxt "#30837"
+msgid "WHDLoad NoWriteCache"
+msgstr "WHDLoad NoWriteCache"
 
-msgctxt "#30102"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Höger analog > Upp"
+msgctxt "#30838"
+msgid "Global Boot HD"
+msgstr "Global uppstarts-HD"
 
-msgctxt "#30103"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Höger analog > Ner"
+msgctxt "#30839"
+msgid "Cartridge"
+msgstr "Kassett"
 
-msgctxt "#30104"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Höger analog > Vänster"
+msgctxt "#30809"
+msgid "Allow Hz Change"
+msgstr "Tillåt Hz-ändring"
 
-msgctxt "#30105"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Höger analog > Höger"
+msgctxt "#30810"
+msgid "Standard"
+msgstr "Standard"
 
-msgctxt "#30106"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Turbo-avfyrning"
+msgctxt "#30811"
+msgid "Pixel Aspect Ratio"
+msgstr "Bildförhållande per bildpunkt"
 
-msgctxt "#30107"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Turbo-knapp"
+msgctxt "#30813"
+msgid "Resolution"
+msgstr "Upplösning"
 
-msgctxt "#30108"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Turbo-puls"
+msgctxt "#30814"
+msgid "Line Mode"
+msgstr "Linjeläge"
 
-msgctxt "#30109"
-msgid "RetroPad > Joystick/Mouse"
-msgstr "RetroPad > Styrspak/mus"
+msgctxt "#30815"
+msgid "Crop"
+msgstr "Beskär"
 
-msgctxt "#30110"
-msgid "RetroPad > Joystick Port Order"
-msgstr "RetroPad > Ordning för joystickport"
+msgctxt "#30816"
+msgid "Automatic Crop Delay"
+msgstr "Automatisk fördröjning av beskärning"
 
-msgctxt "#30111"
-msgid "RetroPad > Face Button Options"
-msgstr "RetroPad > Alternativ för handlingsknappar"
+msgctxt "#30817"
+msgid "Crop Mode"
+msgstr "Beskärningsläge"
 
-msgctxt "#30112"
-msgid "CD32 Pad > Face Button Options"
-msgstr "CD32 Pad > Alternativ för handlingsknappar"
+msgctxt "#30818"
+msgid "Vertical Position"
+msgstr "Vertikal position"
 
-msgctxt "#30113"
-msgid "Video > Automatic Crop Delay"
-msgstr "Video > Automatisk fördröjning av beskärning"
+msgctxt "#30819"
+msgid "Horizontal Position"
+msgstr "Horisontell position"
 
-msgctxt "#30114"
-msgid "Input > Left Analog Stick Mouse Speed"
-msgstr "Inmatning > Mushastighet för vänster analog spak"
+msgctxt "#30820"
+msgid "Remove Interlace Artifacts"
+msgstr "Ta bort interlace-artefakter"
 
-msgctxt "#30115"
-msgid "Input > Right Analog Stick Mouse Speed"
-msgstr "Inmatning > Mushastighet för höger analog spak"
+msgctxt "#30821"
+msgid "Frameskip"
+msgstr "Hoppa över bildrutor"
 
-msgctxt "#30116"
-msgid "Media > WHDLoad ButtonWait"
-msgstr "Media > WHDLoad ButtonWait"
+msgctxt "#30822"
+msgid "Color Gamma"
+msgstr "Färggamma"
+
+msgctxt "#30823"
+msgid "Color Depth"
+msgstr "Färgdjup"
+
+msgctxt "#30885"
+msgid "Virtual KBD Theme"
+msgstr "Virtuellt KBD-tema"
+
+msgctxt "#30886"
+msgid "Virtual KBD Transparency"
+msgstr "Virtuell KBD-genomskinlighet"
+
+msgctxt "#30887"
+msgid "Virtual KBD Dimming"
+msgstr "Virtuell KBD-dimning"
+
+msgctxt "#30888"
+msgid "Statusbar Mode"
+msgstr "Statusfältläge"
+
+msgctxt "#30889"
+msgid "Statusbar Startup"
+msgstr "Statusfält vid uppstart"
+
+msgctxt "#30890"
+msgid "Statusbar Messages"
+msgstr "Meddelanden för statusfält"
+
+msgctxt "#30801"
+msgid "Stereo Separation"
+msgstr "Stereoseparation"
+
+msgctxt "#30802"
+msgid "Interpolation"
+msgstr "Interpolering"
+
+msgctxt "#30803"
+msgid "Filter"
+msgstr "Filter"
+
+msgctxt "#30804"
+msgid "Filter Type"
+msgstr "Filtertyp"
+
+msgctxt "#30805"
+msgid "Floppy Sound Emulation"
+msgstr "Emulering av diskettljud"
+
+msgctxt "#30806"
+msgid "Floppy Sound Mute Ejected"
+msgstr "Diskettljud tyst utmatning"
+
+msgctxt "#30807"
+msgid "Floppy Sound Type"
+msgstr "Ljudtyp för diskett"
+
+msgctxt "#30808"
+msgid "CD Audio Volume"
+msgstr "Ljudvolym för CD"
+
+msgctxt "#30840"
+msgid "Analog Stick Mouse"
+msgstr "Analog spak-mus"
+
+msgctxt "#30841"
+msgid "Analog Stick Mouse Deadzone"
+msgstr "Dödzon för analog spak-mus"
+
+msgctxt "#30842"
+msgid "Left Analog Stick Mouse Speed"
+msgstr "Mushastighet för vänster analog spak"
+
+msgctxt "#30843"
+msgid "Right Analog Stick Mouse Speed"
+msgstr "Mushastighet för höger analog spak"
+
+msgctxt "#30844"
+msgid "D-Pad Mouse Speed"
+msgstr "Mushastighet för riktningsknappar"
+
+msgctxt "#30845"
+msgid "Mouse Speed"
+msgstr "Mushastighet"
+
+msgctxt "#30846"
+msgid "Physical Mouse"
+msgstr "Fysisk mus"
+
+msgctxt "#30847"
+msgid "Keyboard Pass-through"
+msgstr "Genomströmning av tangentbord"
+
+msgctxt "#30848"
+msgid "Keyrah Keypad Mappings"
+msgstr "Mappningar för Keyrah-tangentbord"
+
+msgctxt "#30602"
+msgid "Toggle Virtual Keyboard"
+msgstr "Växla virtuellt tangentbord"
+
+msgctxt "#30603"
+msgid "Toggle Statusbar"
+msgstr "Växla statusfält"
+
+msgctxt "#30604"
+msgid "Switch Joystick/Mouse"
+msgstr "Växla styrspak/mus"
+
+msgctxt "#30856"
+msgid "Toggle Turbo Fire"
+msgstr "Växla turboavfyrning"
+
+msgctxt "#30857"
+msgid "Toggle Save Disk"
+msgstr "Växla sparningsdisk"
+
+msgctxt "#30858"
+msgid "Toggle Aspect Ratio"
+msgstr "Växla bildförhållande"
+
+msgctxt "#30859"
+msgid "Toggle Crop"
+msgstr "Växla beskärning"
+
+msgctxt "#30860"
+msgid "Reset"
+msgstr "Omstart"
+
+msgctxt "#30861"
+msgid "Up"
+msgstr "Upp"
+
+msgctxt "#30862"
+msgid "Down"
+msgstr "Ner"
+
+msgctxt "#30863"
+msgid "Left"
+msgstr "Vänster"
+
+msgctxt "#30864"
+msgid "Right"
+msgstr "Höger"
+
+msgctxt "#30865"
+msgid "B"
+msgstr "B"
+
+msgctxt "#30866"
+msgid "A"
+msgstr "A"
+
+msgctxt "#30867"
+msgid "Y"
+msgstr "Y"
+
+msgctxt "#30868"
+msgid "X"
+msgstr "X"
+
+msgctxt "#30869"
+msgid "Select"
+msgstr "Select"
+
+msgctxt "#30870"
+msgid "Start"
+msgstr "Start"
+
+msgctxt "#30871"
+msgid "L"
+msgstr "L"
+
+msgctxt "#30872"
+msgid "R"
+msgstr "R"
+
+msgctxt "#30873"
+msgid "L2"
+msgstr "L2"
+
+msgctxt "#30874"
+msgid "R2"
+msgstr "R2"
+
+msgctxt "#30875"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#30876"
+msgid "R3"
+msgstr "R3"
+
+msgctxt "#30877"
+msgid "Left Analog > Up"
+msgstr "Vänster analog > Upp"
+
+msgctxt "#30878"
+msgid "Left Analog > Down"
+msgstr "Vänster analog > Ner"
+
+msgctxt "#30879"
+msgid "Left Analog > Left"
+msgstr "Vänster analog > Vänster"
+
+msgctxt "#30880"
+msgid "Left Analog > Right"
+msgstr "Vänster analog > Höger"
+
+msgctxt "#30881"
+msgid "Right Analog > Up"
+msgstr "Höger analog > Upp"
+
+msgctxt "#30882"
+msgid "Right Analog > Down"
+msgstr "Höger analog > Ner"
+
+msgctxt "#30883"
+msgid "Right Analog > Left"
+msgstr "Höger analog > Vänster"
+
+msgctxt "#30884"
+msgid "Right Analog > Right"
+msgstr "Höger analog > Höger"
+
+msgctxt "#30849"
+msgid "Turbo Fire"
+msgstr "Turbo-avfyrning"
+
+msgctxt "#30850"
+msgid "Turbo Button"
+msgstr "Turbo-knapp"
+
+msgctxt "#30851"
+msgid "Turbo Pulse"
+msgstr "Turbo-puls"
+
+msgctxt "#30852"
+msgid "Joystick/Mouse"
+msgstr "Styrspak/mus"
+
+msgctxt "#30853"
+msgid "Joystick Port Order"
+msgstr "Ordning för joystickport"
+
+#~ msgctxt "#30001"
+#~ msgid "System > Model"
+#~ msgstr "System > Modell"
+
+#~ msgctxt "#30002"
+#~ msgid "System > Show Automatic Model Options"
+#~ msgstr "System > Visa automatiska modellalternativ"
+
+#~ msgctxt "#30003"
+#~ msgid "Model > Automatic Floppy"
+#~ msgstr "Modell > Automatisk diskett"
+
+#~ msgctxt "#30004"
+#~ msgid "Model > Automatic HD"
+#~ msgstr "Modell > Automatisk HD"
+
+#~ msgctxt "#30005"
+#~ msgid "Model > Automatic CD"
+#~ msgstr "Modell > Automatisk CD"
+
+#~ msgctxt "#30006"
+#~ msgid "System > Kickstart ROM"
+#~ msgstr "System > Kickstart ROM"
+
+#~ msgctxt "#30007"
+#~ msgid "System > Chip RAM"
+#~ msgstr "System > Chip RAM"
+
+#~ msgctxt "#30008"
+#~ msgid "System > Slow RAM"
+#~ msgstr "System > Långsamt RAM-minne"
+
+#~ msgctxt "#30009"
+#~ msgid "System > Z2 Fast RAM"
+#~ msgstr "System > Z2 Snabbt RAM-minne"
+
+#~ msgctxt "#30010"
+#~ msgid "System > Z3 Fast RAM"
+#~ msgstr "System > Z3 Snabbt RAM-minne"
+
+#~ msgctxt "#30011"
+#~ msgid "System > CPU Model"
+#~ msgstr "System > CPU-modell"
+
+#~ msgctxt "#30012"
+#~ msgid "System > FPU Model"
+#~ msgstr "System > FPU-modell"
+
+#~ msgctxt "#30013"
+#~ msgid "System > CPU Speed"
+#~ msgstr "System > CPU-hastighet"
+
+#~ msgctxt "#30014"
+#~ msgid "System > CPU Cycle-exact Speed"
+#~ msgstr "System > CPU-cykelexakt hastighet"
+
+#~ msgctxt "#30015"
+#~ msgid "System > CPU Compatibility"
+#~ msgstr "System > CPU-kompatibilitet"
+
+#~ msgctxt "#30016"
+#~ msgid "Media > Automatic Load Fast-Forward"
+#~ msgstr "Media > Automatisk inläsning snabbspolning"
+
+#~ msgctxt "#30017"
+#~ msgid "Media > Floppy Speed"
+#~ msgstr "Media > Disketthastighet"
+
+#~ msgctxt "#30018"
+#~ msgid "Media > Floppy MultiDrive"
+#~ msgstr "Media > Diskett MultiDrive"
+
+#~ msgctxt "#30019"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Media > Skrivskydd för disketter"
+
+#~ msgctxt "#30020"
+#~ msgid "Media > Floppy Write Redirect"
+#~ msgstr "Media > Omdirigering av diskettskrivning"
+
+#~ msgctxt "#30021"
+#~ msgid "Media > CD Speed"
+#~ msgstr "Media > CD-hastighet"
+
+#~ msgctxt "#30022"
+#~ msgid "Media > CD Startup Delayed Insert"
+#~ msgstr "Media > Försenad inmatning vid CD-start"
+
+#~ msgctxt "#30023"
+#~ msgid "Media > CD32/CDTV Shared NVRAM"
+#~ msgstr "Media > CD32/CDTV delat NVRAM"
+
+#~ msgctxt "#30024"
+#~ msgid "Media > WHDLoad Support"
+#~ msgstr "Media > Stöd för WHDLoad"
+
+#~ msgctxt "#30025"
+#~ msgid "Media > WHDLoad Theme"
+#~ msgstr "Media > WHDLoad-tema"
+
+#~ msgctxt "#30026"
+#~ msgid "Media > WHDLoad Splash Screen"
+#~ msgstr "Media > WHDLoad startskärm"
+
+#~ msgctxt "#30027"
+#~ msgid "Media > WHDLoad NoWriteCache"
+#~ msgstr "Media > WHDLoad NoWriteCache"
+
+#~ msgctxt "#30028"
+#~ msgid "Media > Global Boot HD"
+#~ msgstr "Media > Global uppstarts-HD"
+
+#~ msgctxt "#30029"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Media > Kassett"
+
+#~ msgctxt "#30031"
+#~ msgid "Video > Allow Hz Change"
+#~ msgstr "Video > Tillåt Hz-ändring"
+
+#~ msgctxt "#30032"
+#~ msgid "Video > Standard"
+#~ msgstr "Video > Standard"
+
+#~ msgctxt "#30033"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr "Video > Bildförhållande per bildpunkt"
+
+#~ msgctxt "#30034"
+#~ msgid "Video > Resolution"
+#~ msgstr "Video > Upplösning"
+
+#~ msgctxt "#30035"
+#~ msgid "Video > Line Mode"
+#~ msgstr "Video > Linjeläge"
+
+#~ msgctxt "#30036"
+#~ msgid "Video > Crop"
+#~ msgstr "Video > Beskär"
+
+#~ msgctxt "#30038"
+#~ msgid "Video > Crop Mode"
+#~ msgstr "Video > Beskärningsläge"
+
+#~ msgctxt "#30040"
+#~ msgid "Video > Vertical Position"
+#~ msgstr "Video > Vertikal position"
+
+#~ msgctxt "#30041"
+#~ msgid "Video > Horizontal Position"
+#~ msgstr "Video > Horisontell position"
+
+#~ msgctxt "#30042"
+#~ msgid "Video > Immediate/Waiting Blits"
+#~ msgstr "Video > Omedelbara/Väntande Blits"
+
+#~ msgctxt "#30043"
+#~ msgid "Video > Collision Level"
+#~ msgstr "Video > Kollisionsnivå"
+
+#~ msgctxt "#30044"
+#~ msgid "Video > Remove Interlace Artifacts"
+#~ msgstr "Video > Ta bort interlace-artefakter"
+
+#~ msgctxt "#30045"
+#~ msgid "Video > Frameskip"
+#~ msgstr "Video > Hoppa över bildrutor"
+
+#~ msgctxt "#30046"
+#~ msgid "Video > Color Gamma"
+#~ msgstr "Video > Färggamma"
+
+#~ msgctxt "#30047"
+#~ msgid "Video > Color Depth"
+#~ msgstr "Video > Färgdjup"
+
+#~ msgctxt "#30048"
+#~ msgid "OSD > Virtual KBD Theme"
+#~ msgstr "OSD > Virtuellt KBD-tema"
+
+#~ msgctxt "#30049"
+#~ msgid "OSD > Virtual KBD Transparency"
+#~ msgstr "OSD > Virtuell KBD-genomskinlighet"
+
+#~ msgctxt "#30050"
+#~ msgid "OSD > Virtual KBD Dimming"
+#~ msgstr "OSD > Virtuell KBD-dimning"
+
+#~ msgctxt "#30051"
+#~ msgid "OSD > Statusbar Mode"
+#~ msgstr "OSD > Statusfältläge"
+
+#~ msgctxt "#30052"
+#~ msgid "OSD > Statusbar Startup"
+#~ msgstr "OSD > Statusfält vid uppstart"
+
+#~ msgctxt "#30053"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > Meddelanden för statusfält"
+
+#~ msgctxt "#30056"
+#~ msgid "Audio > Stereo Separation"
+#~ msgstr "Ljud > Stereoseparation"
+
+#~ msgctxt "#30057"
+#~ msgid "Audio > Interpolation"
+#~ msgstr "Ljud > Interpolering"
+
+#~ msgctxt "#30058"
+#~ msgid "Audio > Filter"
+#~ msgstr "Ljud > Filter"
+
+#~ msgctxt "#30059"
+#~ msgid "Audio > Filter Type"
+#~ msgstr "Ljud > Filtertyp"
+
+#~ msgctxt "#30060"
+#~ msgid "Audio > Floppy Sound Emulation"
+#~ msgstr "Ljud > Emulering av diskettljud"
+
+#~ msgctxt "#30061"
+#~ msgid "Audio > Floppy Sound Mute Ejected"
+#~ msgstr "Ljud > Diskettljud tyst utmatning"
+
+#~ msgctxt "#30062"
+#~ msgid "Audio > Floppy Sound Type"
+#~ msgstr "Ljud > Ljudtyp för diskett"
+
+#~ msgctxt "#30063"
+#~ msgid "Audio > CD Audio Volume"
+#~ msgstr "Ljud > Ljudvolym för CD"
+
+#~ msgctxt "#30064"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "Inmatning > Analog spak-mus"
+
+#~ msgctxt "#30065"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "Inmatning > Dödzon för analog spak-mus"
+
+#~ msgctxt "#30067"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "Inmatning > Mushastighet för riktningsknappar"
+
+#~ msgctxt "#30068"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "Inmatning > Mushastighet"
+
+#~ msgctxt "#30069"
+#~ msgid "Input > Physical Mouse"
+#~ msgstr "Inmatning > Fysisk mus"
+
+#~ msgctxt "#30070"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Inmatning > Genomströmning av tangentbord"
+
+#~ msgctxt "#30071"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "Inmatning > Mappningar för Keyrah-tangentbord"
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Snabbtangent > Växla virtuellt tangentbord"
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Snabbtangent > Växla statusfält"
+
+#~ msgctxt "#30075"
+#~ msgid "Hotkey > Switch Joystick/Mouse"
+#~ msgstr "Snabbknapp > Växla styrspak/mus"
+
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Snabbtangent > Växla turboavfyrning"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Snabbtangent > Växla sparningsdisk"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Snabbknapp > Omstart"
+
+#~ msgctxt "#30079"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Snabbtangent > Växla bildförhållande"
+
+#~ msgctxt "#30080"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Snabbtangent > Växla beskärning"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Upp"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Ner"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Vänster"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Höger"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Select"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Vänster analog > Upp"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Vänster analog > Ner"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Vänster analog > Vänster"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Vänster analog > Höger"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Höger analog > Upp"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Höger analog > Ner"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Höger analog > Vänster"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Höger analog > Höger"
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Turbo-avfyrning"
+
+#~ msgctxt "#30107"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Turbo-knapp"
+
+#~ msgctxt "#30108"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Turbo-puls"
+
+#~ msgctxt "#30109"
+#~ msgid "RetroPad > Joystick/Mouse"
+#~ msgstr "RetroPad > Styrspak/mus"
+
+#~ msgctxt "#30110"
+#~ msgid "RetroPad > Joystick Port Order"
+#~ msgstr "RetroPad > Ordning för joystickport"
+
+#~ msgctxt "#30111"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "RetroPad > Alternativ för handlingsknappar"
+
+#~ msgctxt "#30112"
+#~ msgid "CD32 Pad > Face Button Options"
+#~ msgstr "CD32 Pad > Alternativ för handlingsknappar"
+
+#~ msgctxt "#30113"
+#~ msgid "Video > Automatic Crop Delay"
+#~ msgstr "Video > Automatisk fördröjning av beskärning"
+
+#~ msgctxt "#30114"
+#~ msgid "Input > Left Analog Stick Mouse Speed"
+#~ msgstr "Inmatning > Mushastighet för vänster analog spak"
+
+#~ msgctxt "#30115"
+#~ msgid "Input > Right Analog Stick Mouse Speed"
+#~ msgstr "Inmatning > Mushastighet för höger analog spak"
+
+#~ msgctxt "#30116"
+#~ msgid "Media > WHDLoad ButtonWait"
+#~ msgstr "Media > WHDLoad ButtonWait"
 
 #~ msgctxt "#30037"
 #~ msgid "Video > Zoom Mode"

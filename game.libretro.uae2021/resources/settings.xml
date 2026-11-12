@@ -40,7 +40,7 @@
 		</category>
 		<category id="system" label="30117" help="30118">
 			<group id="1">
-				<setting id="puae_model" type="string" label="30001" help="30119">
+				<setting id="puae_model" type="string" label="30782" help="30119">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -48,7 +48,9 @@
 							<option label="30120">auto</option>
 							<option label="30121">A500OG</option>
 							<option label="30122">A500</option>
+							<option label="30783">A500ECS</option>
 							<option label="30123">A500PLUS</option>
+							<option label="30784">A600OG</option>
 							<option label="30124">A600</option>
 							<option label="30125">A1200OG</option>
 							<option label="30126">A1200</option>
@@ -63,7 +65,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_model_options_display" type="string" label="30002" help="30134">
+				<setting id="puae_model_options_display" type="string" label="30785" help="30134">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -74,14 +76,16 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_model_fd" type="string" label="30003" help="30135">
+				<setting id="puae_model_fd" type="string" label="30786" help="30135">
 					<level>0</level>
 					<default>A500</default>
 					<constraints>
 						<options>
 							<option label="30121">A500OG</option>
 							<option label="30122">A500</option>
+							<option label="30783">A500ECS</option>
 							<option label="30123">A500PLUS</option>
+							<option label="30784">A600OG</option>
 							<option label="30124">A600</option>
 							<option label="30125">A1200OG</option>
 							<option label="30126">A1200</option>
@@ -93,11 +97,12 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_model_hd" type="string" label="30004" help="30136">
+				<setting id="puae_model_hd" type="string" label="30787" help="30136">
 					<level>0</level>
 					<default>A1200</default>
 					<constraints>
 						<options>
+							<option label="30784">A600OG</option>
 							<option label="30124">A600</option>
 							<option label="30125">A1200OG</option>
 							<option label="30126">A1200</option>
@@ -108,7 +113,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_model_cd" type="string" label="30005" help="30137">
+				<setting id="puae_model_cd" type="string" label="30788" help="30137">
 					<level>0</level>
 					<default>CD32</default>
 					<constraints>
@@ -120,7 +125,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_kickstart" type="string" label="30006" help="30772">
+				<setting id="puae_kickstart" type="string" label="30789" help="30772">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -131,7 +136,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_chipmem_size" type="string" label="30007" help="30773">
+				<setting id="puae_chipmem_size" type="string" label="30790" help="30773">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -145,7 +150,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_bogomem_size" type="string" label="30008" help="30773">
+				<setting id="puae_bogomem_size" type="string" label="30791" help="30773">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -160,7 +165,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_fastmem_size" type="string" label="30009" help="30773">
+				<setting id="puae_fastmem_size" type="string" label="30792" help="30773">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -175,7 +180,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_z3mem_size" type="string" label="30010" help="30773">
+				<setting id="puae_z3mem_size" type="string" label="30793" help="30773">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -196,7 +201,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cpu_model" type="string" label="30011" help="30773">
+				<setting id="puae_cpu_model" type="string" label="30794" help="30773">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -211,7 +216,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_fpu_model" type="string" label="30012" help="30773">
+				<setting id="puae_fpu_model" type="string" label="30795" help="30773">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -225,7 +230,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cpu_throttle" type="string" label="30013" help="30156">
+				<setting id="puae_cpu_throttle" type="string" label="30796" help="30156">
 					<level>0</level>
 					<default>0.0</default>
 					<constraints>
@@ -254,7 +259,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cpu_multiplier" type="string" label="30014" help="30177">
+				<setting id="puae_cpu_multiplier" type="string" label="30797" help="30177">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -271,7 +276,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cpu_compatibility" type="string" label="30015" help="30185">
+				<setting id="puae_cpu_compatibility" type="string" label="30798" help="30185">
 					<level>0</level>
 					<default>normal</default>
 					<constraints>
@@ -283,11 +288,36 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
+				<setting id="puae_immediate_blits" type="string" label="30799" help="30269">
+					<level>0</level>
+					<default>waiting</default>
+					<constraints>
+						<options>
+							<option label="30205">false</option>
+							<option label="30270">immediate</option>
+							<option label="30271">waiting</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="puae_collision_level" type="string" label="30800" help="30272">
+					<level>0</level>
+					<default>playfields</default>
+					<constraints>
+						<options>
+							<option label="30145">none</option>
+							<option label="30273">sprites</option>
+							<option label="30274">playfields</option>
+							<option label="30275">full</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
 			</group>
 		</category>
 		<category id="audio" label="30189" help="30190">
 			<group id="1">
-				<setting id="puae_sound_stereo_separation" type="string" label="30056" help="30191">
+				<setting id="puae_sound_stereo_separation" type="string" label="30801" help="30191">
 					<level>0</level>
 					<default>100%</default>
 					<constraints>
@@ -307,7 +337,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_sound_interpol" type="string" label="30057" help="30192">
+				<setting id="puae_sound_interpol" type="string" label="30802" help="30192">
 					<level>0</level>
 					<default>anti</default>
 					<constraints>
@@ -321,7 +351,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_sound_filter" type="string" label="30058" help="30197">
+				<setting id="puae_sound_filter" type="string" label="30803" help="30197">
 					<level>0</level>
 					<default>emulated</default>
 					<constraints>
@@ -333,7 +363,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_sound_filter_type" type="string" label="30059" help="30201">
+				<setting id="puae_sound_filter_type" type="string" label="30804" help="30201">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -345,7 +375,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_floppy_sound" type="string" label="30060" help="30204">
+				<setting id="puae_floppy_sound" type="string" label="30805" help="30204">
 					<level>0</level>
 					<default>80</default>
 					<constraints>
@@ -375,7 +405,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_floppy_sound_empty_mute" type="string" label="30061" help="30226">
+				<setting id="puae_floppy_sound_empty_mute" type="string" label="30806" help="30226">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -386,7 +416,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_floppy_sound_type" type="string" label="30062" help="30227">
+				<setting id="puae_floppy_sound_type" type="string" label="30807" help="30227">
 					<level>0</level>
 					<default>internal</default>
 					<constraints>
@@ -398,7 +428,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_sound_volume_cd" type="string" label="30063" help="30231">
+				<setting id="puae_sound_volume_cd" type="string" label="30808" help="30231">
 					<level>0</level>
 					<default>100%</default>
 					<constraints>
@@ -432,7 +462,7 @@
 		</category>
 		<category id="video" label="30232" help="30233">
 			<group id="1">
-				<setting id="puae_video_allow_hz_change" type="string" label="30031" help="30774">
+				<setting id="puae_video_allow_hz_change" type="string" label="30809" help="30774">
 					<level>0</level>
 					<default>locked</default>
 					<constraints>
@@ -444,7 +474,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_video_standard" type="string" label="30032" help="30236">
+				<setting id="puae_video_standard" type="string" label="30810" help="30236">
 					<level>0</level>
 					<default>PAL auto</default>
 					<constraints>
@@ -457,12 +487,13 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_video_aspect" type="string" label="30033" help="30239">
+				<setting id="puae_video_aspect" type="string" label="30811" help="30812">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
 						<options>
 							<option label="30120">auto</option>
+							<option label="30238">NTSC auto</option>
 							<option label="30659">PAL</option>
 							<option label="30660">NTSC</option>
 							<option label="30661">1:1</option>
@@ -470,7 +501,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_video_resolution" type="string" label="30034" help="30240">
+				<setting id="puae_video_resolution" type="string" label="30813" help="30240">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -485,7 +516,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_video_vresolution" type="string" label="30035" help="30246">
+				<setting id="puae_video_vresolution" type="string" label="30814" help="30246">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -497,7 +528,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_crop" type="string" label="30036" help="30249">
+				<setting id="puae_crop" type="string" label="30815" help="30249">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -515,7 +546,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_crop_delay" type="string" label="30113" help="30257">
+				<setting id="puae_crop_delay" type="string" label="30816" help="30257">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -526,7 +557,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_crop_mode" type="string" label="30038" help="30258">
+				<setting id="puae_crop_mode" type="string" label="30817" help="30258">
 					<level>0</level>
 					<default>both</default>
 					<constraints>
@@ -542,7 +573,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_vertical_pos" type="string" label="30040" help="30266">
+				<setting id="puae_vertical_pos" type="string" label="30818" help="30266">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -644,7 +675,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_horizontal_pos" type="string" label="30041" help="30268">
+				<setting id="puae_horizontal_pos" type="string" label="30819" help="30268">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -735,32 +766,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_immediate_blits" type="string" label="30042" help="30269">
-					<level>0</level>
-					<default>waiting</default>
-					<constraints>
-						<options>
-							<option label="30205">false</option>
-							<option label="30270">immediate</option>
-							<option label="30271">waiting</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="puae_collision_level" type="string" label="30043" help="30272">
-					<level>0</level>
-					<default>playfields</default>
-					<constraints>
-						<options>
-							<option label="30145">none</option>
-							<option label="30273">sprites</option>
-							<option label="30274">playfields</option>
-							<option label="30275">full</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="puae_gfx_flickerfixer" type="string" label="30044" help="30276">
+				<setting id="puae_gfx_flickerfixer" type="string" label="30820" help="30276">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -771,7 +777,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_gfx_framerate" type="string" label="30045" help="30277">
+				<setting id="puae_gfx_framerate" type="string" label="30821" help="30277">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -783,7 +789,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_gfx_gamma" type="string" label="30046" help="30278">
+				<setting id="puae_gfx_gamma" type="string" label="30822" help="30278">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -803,7 +809,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_gfx_colors" type="string" label="30047" help="30289">
+				<setting id="puae_gfx_colors" type="string" label="30823" help="30289">
 					<level>0</level>
 					<default>24bit</default>
 					<constraints>
@@ -818,7 +824,7 @@
 		</category>
 		<category id="media" label="30292" help="30293">
 			<group id="1">
-				<setting id="puae_autoloadfastforward" type="string" label="30016" help="30294">
+				<setting id="puae_autoloadfastforward" type="string" label="30824" help="30294">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -832,7 +838,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_floppy_speed" type="string" label="30017" help="30298">
+				<setting id="puae_floppy_speed" type="string" label="30825" help="30298">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -846,7 +852,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_floppy_multidrive" type="string" label="30018" help="30775">
+				<setting id="puae_floppy_multidrive" type="string" label="30826" help="30775">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -857,7 +863,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_floppy_write_protection" type="string" label="30019" help="30304">
+				<setting id="puae_floppy_write_protection" type="string" label="30827" help="30304">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -868,7 +874,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_floppy_write_redirect" type="string" label="30020" help="30305">
+				<setting id="puae_floppy_write_redirect" type="string" label="30828" help="30305">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -879,7 +885,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cd_speed" type="string" label="30021" help="30306">
+				<setting id="puae_cd_speed" type="string" label="30829" help="30306">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -890,7 +896,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cd_startup_delayed_insert" type="string" label="30022" help="30307">
+				<setting id="puae_cd_startup_delayed_insert" type="string" label="30830" help="30307">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -901,7 +907,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_shared_nvram" type="string" label="30023" help="30308">
+				<setting id="puae_shared_nvram" type="string" label="30831" help="30308">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -912,19 +918,18 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload" type="string" label="30024" help="30776">
+				<setting id="puae_use_whdload" type="string" label="30832" help="30833">
 					<level>0</level>
-					<default>files</default>
+					<default>enabled</default>
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option label="30310">files</option>
-							<option label="30311">hdfs</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload_theme" type="string" label="30025" help="30777">
+				<setting id="puae_use_whdload_theme" type="string" label="30834" help="30777">
 					<level>0</level>
 					<default>default</default>
 					<constraints>
@@ -935,7 +940,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload_prefs" type="string" label="30026" help="30778">
+				<setting id="puae_use_whdload_prefs" type="string" label="30835" help="30778">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -948,7 +953,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload_buttonwait" type="string" label="30116" help="30779">
+				<setting id="puae_use_whdload_buttonwait" type="string" label="30836" help="30779">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -959,7 +964,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_whdload_nowritecache" type="string" label="30027" help="30780">
+				<setting id="puae_use_whdload_nowritecache" type="string" label="30837" help="30780">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -970,7 +975,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_use_boot_hd" type="string" label="30028" help="30781">
+				<setting id="puae_use_boot_hd" type="string" label="30838" help="30781">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -987,7 +992,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cart_file" type="string" label="30029" help="30327">
+				<setting id="puae_cart_file" type="string" label="30839" help="30327">
 					<level>0</level>
 					<default>none</default>
 					<constraints>
@@ -1001,7 +1006,7 @@
 		</category>
 		<category id="input" label="30328" help="30329">
 			<group id="1">
-				<setting id="puae_analogmouse" type="string" label="30064" help="30330">
+				<setting id="puae_analogmouse" type="string" label="30840" help="30330">
 					<level>0</level>
 					<default>both</default>
 					<constraints>
@@ -1014,7 +1019,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_analogmouse_deadzone" type="string" label="30065" help="30334">
+				<setting id="puae_analogmouse_deadzone" type="string" label="30841" help="30334">
 					<level>0</level>
 					<default>20</default>
 					<constraints>
@@ -1034,7 +1039,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_analogmouse_speed" type="string" label="30114" help="30336">
+				<setting id="puae_analogmouse_speed" type="string" label="30842" help="30336">
 					<level>0</level>
 					<default>1.0</default>
 					<constraints>
@@ -1073,7 +1078,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_analogmouse_speed_right" type="string" label="30115" help="30357">
+				<setting id="puae_analogmouse_speed_right" type="string" label="30843" help="30357">
 					<level>0</level>
 					<default>1.0</default>
 					<constraints>
@@ -1112,7 +1117,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_dpadmouse_speed" type="string" label="30067" help="30358">
+				<setting id="puae_dpadmouse_speed" type="string" label="30844" help="30358">
 					<level>0</level>
 					<default>6</default>
 					<constraints>
@@ -1140,7 +1145,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mouse_speed" type="string" label="30068" help="30371">
+				<setting id="puae_mouse_speed" type="string" label="30845" help="30371">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -1249,7 +1254,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_physicalmouse" type="string" label="30069" help="30442">
+				<setting id="puae_physicalmouse" type="string" label="30846" help="30442">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -1261,7 +1266,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_physical_keyboard_pass_through" type="string" label="30070" help="30445">
+				<setting id="puae_physical_keyboard_pass_through" type="string" label="30847" help="30445">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1272,7 +1277,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_keyrah_keypad_mappings" type="string" label="30071" help="30446">
+				<setting id="puae_keyrah_keypad_mappings" type="string" label="30848" help="30446">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1283,7 +1288,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_turbo_fire" type="string" label="30106" help="30447">
+				<setting id="puae_turbo_fire" type="string" label="30849" help="30447">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1294,7 +1299,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_turbo_fire_button" type="string" label="30107" help="30448">
+				<setting id="puae_turbo_fire_button" type="string" label="30850" help="30448">
 					<level>0</level>
 					<default>B</default>
 					<constraints>
@@ -1311,7 +1316,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_turbo_pulse" type="string" label="30108" help="30457">
+				<setting id="puae_turbo_pulse" type="string" label="30851" help="30457">
 					<level>0</level>
 					<default>6</default>
 					<constraints>
@@ -1326,7 +1331,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_joyport" type="string" label="30109" help="30464">
+				<setting id="puae_joyport" type="string" label="30852" help="30464">
 					<level>0</level>
 					<default>joystick</default>
 					<constraints>
@@ -1337,7 +1342,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_joyport_order" type="string" label="30110" help="30467">
+				<setting id="puae_joyport_order" type="string" label="30853" help="30467">
 					<level>0</level>
 					<default>1234</default>
 					<constraints>
@@ -1350,7 +1355,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_retropad_options" type="string" label="30111" help="30472">
+				<setting id="puae_retropad_options" type="string" label="30854" help="30472">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1363,7 +1368,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_cd32pad_options" type="string" label="30112" help="30477">
+				<setting id="puae_cd32pad_options" type="string" label="30855" help="30477">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1380,7 +1385,7 @@
 		</category>
 		<category id="hotkey" label="30482" help="30483">
 			<group id="1">
-				<setting id="puae_mapper_vkbd" type="string" label="30073" help="30484">
+				<setting id="puae_mapper_vkbd" type="string" label="30602" help="30484">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1496,7 +1501,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_statusbar" type="string" label="30074" help="30592">
+				<setting id="puae_mapper_statusbar" type="string" label="30603" help="30592">
 					<level>0</level>
 					<default>RETROK_F12</default>
 					<constraints>
@@ -1612,7 +1617,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_mouse_toggle" type="string" label="30075" help="30593">
+				<setting id="puae_mapper_mouse_toggle" type="string" label="30604" help="30593">
 					<level>0</level>
 					<default>RETROK_RCTRL</default>
 					<constraints>
@@ -1728,7 +1733,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_turbo_fire_toggle" type="string" label="30076" help="30594">
+				<setting id="puae_mapper_turbo_fire_toggle" type="string" label="30856" help="30594">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1844,7 +1849,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_save_disk_toggle" type="string" label="30077" help="30595">
+				<setting id="puae_mapper_save_disk_toggle" type="string" label="30857" help="30595">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1960,7 +1965,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_aspect_ratio_toggle" type="string" label="30079" help="30596">
+				<setting id="puae_mapper_aspect_ratio_toggle" type="string" label="30858" help="30596">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2076,7 +2081,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_crop_toggle" type="string" label="30080" help="30597">
+				<setting id="puae_mapper_crop_toggle" type="string" label="30859" help="30597">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2192,7 +2197,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_reset" type="string" label="30078" help="30598">
+				<setting id="puae_mapper_reset" type="string" label="30860" help="30598">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2312,7 +2317,7 @@
 		</category>
 		<category id="retropad" label="30599" help="30600">
 			<group id="1">
-				<setting id="puae_mapper_up" type="string" label="30082" help="30601">
+				<setting id="puae_mapper_up" type="string" label="30861" help="30601">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2443,7 +2448,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_down" type="string" label="30083" help="30617">
+				<setting id="puae_mapper_down" type="string" label="30862" help="30617">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2574,7 +2579,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_left" type="string" label="30084" help="30618">
+				<setting id="puae_mapper_left" type="string" label="30863" help="30618">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2705,7 +2710,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_right" type="string" label="30085" help="30619">
+				<setting id="puae_mapper_right" type="string" label="30864" help="30619">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2836,7 +2841,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_b" type="string" label="30086" help="30620">
+				<setting id="puae_mapper_b" type="string" label="30865" help="30620">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2967,7 +2972,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_a" type="string" label="30087" help="30621">
+				<setting id="puae_mapper_a" type="string" label="30866" help="30621">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3098,7 +3103,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_y" type="string" label="30088" help="30622">
+				<setting id="puae_mapper_y" type="string" label="30867" help="30622">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3229,7 +3234,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_x" type="string" label="30089" help="30623">
+				<setting id="puae_mapper_x" type="string" label="30868" help="30623">
 					<level>0</level>
 					<default>RETROK_SPACE</default>
 					<constraints>
@@ -3360,7 +3365,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_select" type="string" label="30090" help="30624">
+				<setting id="puae_mapper_select" type="string" label="30869" help="30624">
 					<level>0</level>
 					<default>TOGGLE_VKBD</default>
 					<constraints>
@@ -3491,7 +3496,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_start" type="string" label="30091" help="30625">
+				<setting id="puae_mapper_start" type="string" label="30870" help="30625">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3622,7 +3627,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_l" type="string" label="30092">
+				<setting id="puae_mapper_l" type="string" label="30871">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3753,7 +3758,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_r" type="string" label="30093">
+				<setting id="puae_mapper_r" type="string" label="30872">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3884,7 +3889,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_l2" type="string" label="30094">
+				<setting id="puae_mapper_l2" type="string" label="30873">
 					<level>0</level>
 					<default>MOUSE_LEFT_BUTTON</default>
 					<constraints>
@@ -4015,7 +4020,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_r2" type="string" label="30095">
+				<setting id="puae_mapper_r2" type="string" label="30874">
 					<level>0</level>
 					<default>MOUSE_RIGHT_BUTTON</default>
 					<constraints>
@@ -4146,7 +4151,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_l3" type="string" label="30096">
+				<setting id="puae_mapper_l3" type="string" label="30875">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4277,7 +4282,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_r3" type="string" label="30097">
+				<setting id="puae_mapper_r3" type="string" label="30876">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4408,7 +4413,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_lu" type="string" label="30098">
+				<setting id="puae_mapper_lu" type="string" label="30877">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4539,7 +4544,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_ld" type="string" label="30099">
+				<setting id="puae_mapper_ld" type="string" label="30878">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4670,7 +4675,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_ll" type="string" label="30100">
+				<setting id="puae_mapper_ll" type="string" label="30879">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4801,7 +4806,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_lr" type="string" label="30101">
+				<setting id="puae_mapper_lr" type="string" label="30880">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4932,7 +4937,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_ru" type="string" label="30102">
+				<setting id="puae_mapper_ru" type="string" label="30881">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5063,7 +5068,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_rd" type="string" label="30103">
+				<setting id="puae_mapper_rd" type="string" label="30882">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5194,7 +5199,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_rl" type="string" label="30104">
+				<setting id="puae_mapper_rl" type="string" label="30883">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5325,7 +5330,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_mapper_rr" type="string" label="30105">
+				<setting id="puae_mapper_rr" type="string" label="30884">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5460,7 +5465,7 @@
 		</category>
 		<category id="osd" label="30626" help="30627">
 			<group id="1">
-				<setting id="puae_vkbd_theme" type="string" label="30048" help="30628">
+				<setting id="puae_vkbd_theme" type="string" label="30885" help="30628">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -5479,7 +5484,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_vkbd_transparency" type="string" label="30049" help="30639">
+				<setting id="puae_vkbd_transparency" type="string" label="30886" help="30639">
 					<level>0</level>
 					<default>25%</default>
 					<constraints>
@@ -5493,7 +5498,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_vkbd_dimming" type="string" label="30050" help="30640">
+				<setting id="puae_vkbd_dimming" type="string" label="30887" help="30640">
 					<level>0</level>
 					<default>25%</default>
 					<constraints>
@@ -5507,7 +5512,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_statusbar" type="string" label="30051" help="30641">
+				<setting id="puae_statusbar" type="string" label="30888" help="30641">
 					<level>0</level>
 					<default>bottom</default>
 					<constraints>
@@ -5524,7 +5529,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_statusbar_startup" type="string" label="30052" help="30650">
+				<setting id="puae_statusbar_startup" type="string" label="30889" help="30650">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -5535,7 +5540,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="puae_statusbar_messages" type="string" label="30053" help="30651">
+				<setting id="puae_statusbar_messages" type="string" label="30890" help="30651">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
