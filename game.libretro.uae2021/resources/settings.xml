@@ -1021,7 +1021,7 @@
 				</setting>
 				<setting id="puae_analogmouse_deadzone" type="string" label="30841" help="30334">
 					<level>0</level>
-					<default>20</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option label="30335">0</option>
